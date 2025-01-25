@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:christian.hildebrand@unisg.ch'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+    #url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
     #url: https://www.instagram.com/
   - icon: brands/github
@@ -52,11 +52,11 @@ interests:
 - Consumer Finance & Robo Advisory
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+  - area: PhD Management
+    institution: University of St. Gallen
+    date_start: 2010
+    date_end: 2012
+      summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
