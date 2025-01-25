@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/0000-0003-4366-3093
 
 interests:
-- 🧠 Consumer-AI Interactions
-- 🦾 Adaptive Robots & User Interfaces
-🏦 Consumer Finance & Robo Advisory
+- Consumer-AI Interactions
+- Adaptive Robots & User Interfaces
+- Consumer Finance & Robo Advisory
 
 education:
   - area: PhD Artificial Intelligence
