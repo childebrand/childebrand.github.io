@@ -21,7 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: Director Institute of Behavioral Science & Technology
-role_2: Full Professor of Marketing Analytics
+role: Full Professor of Marketing Analytics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
