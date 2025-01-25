@@ -26,7 +26,7 @@ role: Director Institute of Behavioral Science & Technology
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Institute of Behavioral Science & Technology
-    University of St. Gallen
+  - name: University of St. Gallen
     url: https://ibt.unisg.ch
 
 # Social network links
