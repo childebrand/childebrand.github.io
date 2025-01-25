@@ -20,11 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Director Institute of Behavioral Science & Technology, Full Professor of Marketing Analytics
+role: Director Institute of Behavioral Science & Technology
+      Full Professor of Marketing Analytics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Behavioral Science & Technology, University of St. Gallen
+  - name: Institute of Behavioral Science & Technology
+  - University of St. Gallen
     url: https://ibt.unisg.ch
 
 # Social network links
