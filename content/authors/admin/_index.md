@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Management
     institution: University of St. Gallen
-    date_start: 2010
-    date_end: 2012
+    date_start: 2010-01-01
+    date_end: 2012-01-01
       summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
