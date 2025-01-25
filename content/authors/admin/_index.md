@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Christian Hildebrand
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Christian 
+last_name: Hildebrand
 
 # Status emoji
 status:
@@ -20,36 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Director Institute of Behavioral Science & Technology, Full Professor of Marketing Analytics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institute of Behavioral Science & Technology, University of St. Gallen
+    url: https://ibt.unisg.ch
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:christian.hildebrand@unisg.ch'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/instagram
+    #url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/childebrand
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/christian-hildebrand/
+  #- icon: academicons/google-scholar
+    #url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4366-3093
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- 🧠 Consumer-AI Interactions
+- 🦾 Adaptive Robots & User Interfaces
+🏦 Consumer Finance & Robo Advisory
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +183,15 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+🎓 Director of the Institute of Behavioral Science & Technology (IBT-HSG) and Professor of Marketing Analytics at the University of St.Gallen, Switzerland
+
+🔬 Research Focus:
+
+🧠 Consumer-AI Interactions
+🦾 Adaptive Robots & User Interfaces
+🏦 Consumer Finance & Robo Advisory
+⛰️ When Not Researching:
+
+🎿 Racing trailrunning & ski mountaineering competitions
+🧗‍♂️ Climbing on rock and ice in the Swiss Alps
+👨‍👩‍👧‍👦 Enjoy (van) life with two sweet kids & my wife
