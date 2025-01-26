@@ -11,7 +11,7 @@ last_name: Hildebrand
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,7 +55,7 @@ interests:
 
 #education:
   #- area: PhD Management
-    institution: University of St. Gallen
+    #institution: University of St. Gallen
     date_start: 2010-01-01
     date_end: 2012-01-01
     summary: |
