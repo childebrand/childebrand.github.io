@@ -53,7 +53,7 @@ interests:
 - Adaptive Robots & User Interfaces
 - Consumer Finance & Robo Advisory
 
-#education:
+education:
   #- area: PhD Management
     #institution: University of St. Gallen
     date_start: 2010-01-01
